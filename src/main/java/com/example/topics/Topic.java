@@ -1,6 +1,7 @@
 package com.example.topics;
 
 public class Topic {
+    
     private int topicId;
     private String topicName;
     private String topicDescription;
