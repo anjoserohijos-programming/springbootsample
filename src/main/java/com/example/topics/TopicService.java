@@ -11,7 +11,7 @@ public class TopicService {
         return new Topic(topicId, "Topic " + topicId);
     }
 
-    public List<Topic> getTopics(int topicId) {
+    public List<Topic> getTopics() {
         return null;
     }
 
